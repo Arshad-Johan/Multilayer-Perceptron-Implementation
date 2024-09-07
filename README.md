@@ -1,0 +1,2 @@
+MULTILAYER PERCEPTRON IMPLEMENTATION
+This project involves implementing and training a Multi-Layer Perceptron (MLP) with backpropagation to classify XOR and additional example inputs. The MLP is trained with sample data and tested on both XOR and other input sets. The results are visualized by plotting the decision boundary using matplotlib, illustrating the MLP's ability to distinguish between different classes.
